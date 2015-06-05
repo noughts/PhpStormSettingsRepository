@@ -1,0 +1,82 @@
+<application>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/GoogleDrive/works/dividual/picseeOthers/parse-webhook" />
+        <option value="$USER_HOME$/GoogleDrive/works/dividual/picseeOthers/watchdog/gae/picsee-watchdog" />
+        <option value="$USER_HOME$/GoogleDrive/works/dividual/picseeOthers/microConsole" />
+        <option value="$USER_HOME$/GoogleDrive/works/dividual/picseeOthers/microAnalytics" />
+        <option value="$USER_HOME$/GoogleDrive/works/dividual/picseeOthers/analytics" />
+        <option value="/private/var/folders/9v/knn4qvhd66s8bqb6_g6fjvy00000gn/T/main.php0.tmp" />
+        <option value="$USER_HOME$/Copy/works/dividual/picseeOthers/admin" />
+        <option value="$USER_HOME$/Copy/works/dividual/picseeOthers/parse-webhook" />
+        <option value="$USER_HOME$/Desktop/temp/ghdjksaf" />
+        <option value="$USER_HOME$/temp/blog" />
+        <option value="$USER_HOME$/Copy/works/practice/gae/parse-webhook" />
+        <option value="$USER_HOME$/PhpstormProjects/untitled1" />
+        <option value="$USER_HOME$/PhpstormProjects/untitled" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/GoogleDrive/works/dividual/picseeOthers/parse-webhook" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/GoogleDrive/works/dividual/picseeOthers/parse-webhook" />
+  </component>
+  <component name="Registry">
+    <entry key="ide.firstStartup" value="false" />
+  </component>
+  <component name="TemplateSettings">
+    <defaultShortcut shortcut="TAB" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
+      <option name="FOREGROUND" value="ff" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="ff" />
+      <option name="EFFECT_TYPE" value="0" />
+    </pattern>
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
+      <option name="FOREGROUND" value="ff" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="ff" />
+      <option name="EFFECT_TYPE" value="0" />
+    </pattern>
+  </component>
+  <component name="XDebuggerSettings">
+    <data-views />
+    <general />
+    <debuggers>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+</application>
