@@ -40,6 +40,11 @@
         <option value="$USER_HOME$/PhpstormProjects/untitled" />
       </list>
     </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Dropbox/works/dividual/picsee/backend/web" />
+      </list>
+    </option>
     <option name="lastPath" value="$USER_HOME$/Dropbox/works/dividual/picsee/backend/web" />
   </component>
   <component name="Registry">
